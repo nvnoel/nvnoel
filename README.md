@@ -1,7 +1,7 @@
 # Yo, gue AeLL 👋
 
 ## Intro
-Yo ges! Nama gue AeLL, masih remaja smp yang suka IT. pokoknya gw suka coding sama reverse engineering
+Yo ges! Nama gue AeLL, masih remaja smp yang suka IT. gw suka coding sama reverse engineering
 
 ## Skill
 - **Programming:**  
@@ -32,4 +32,4 @@ Proyek cheat buat game Boku Boku yang gue bikin. Intinya, lo bisa pake Frida Gad
 
 Makasih udah mampir ke profil GitHub gw, kalau ada yang pengen ditanyain, diskusi soal coding, atau yang lain, bisa kontak aja ya. let’s connect! 🚀
 
-Noted: all the text is made by gpy lol, i'm too lazy to make it.
+Noted: all the text is made by gpt lol, i'm too lazy to make it.
