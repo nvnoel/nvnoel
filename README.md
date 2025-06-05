@@ -2,7 +2,8 @@
 
 ## **☕ About me**
 <img align="left" width="100" src="./images/mahiro_switch.png">
-<p>A middle-school student who’s passionate about IT, coding, reverse engineering, and playing games.</p>
+<p>A middle-school student who’s passionate about IT, coding, reverse engineering, and playing video games.</p>
+
 
 ## **📊 Github Stats**
 <p align="center">
