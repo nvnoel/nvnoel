@@ -1,35 +1,31 @@
-# Yo, gue AeLL 👋
+### Hi!👋 I’m AeLL
 
-## Intro
-Yo ges! Nama gue AeLL, masih remaja smp yang suka IT. gw suka coding sama reverse engineering
+## **☕ About me**
+<img align="left" width="100" src="./images/mahiro_switch.png">
+<p>A middle-school student who’s passionate about IT, coding, and reverse engineering.</p>
 
-## Skill
-- **Programming:**  
-  - JavaScript  
-  - Python  
-  - Smali (Bukan bahasa program njir)
-- **Reverse Engineering & Tools:**  
-  - Frida Gadget
-  - MT & NP Manager
-  - APK Tool M
-  - Termux
+## **📊 Github Stats**
+<p align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eLLFucker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLLFucker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
 
-## Proyek Utama
-### [BOKUMods](https://github.com/eLLFucker/bokumods)  
-Proyek cheat buat game Boku Boku yang gue bikin. Intinya, lo bisa pake Frida Gadget sama JavaScript buat nyelundupin mod tanpa perlu otak-atik APK habis-habisan. Simple, praktis, dan pasti seru! 😎
+## **📫 Contacts**
+<img align="left" width="100" src="./images/mahiro.png" />
 
-## Stats GitHub
-![AeLL’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLLFucker&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eLLFucker&layout=compact&theme=default)
+**Please contact me on Telegram for a quick response:** [@noelnvrnoe](https://t.me/noelnvrnoe)
 
-> Bakal keliatan di situ bahasa apa aja yang paling sering gue pake, serta aktivitas commit gue yang (mudah-mudahan) kece.
+**You can also email me here:**
 
-## Kontak & Sosmed
-- **Telegram:** [@noelnvrnoe](https://t.me/noelnvrnoe)  
-- **YouTube:** [@noelnoskill](https://www.youtube.com/@noelnoskill)  
+```c
+#include <stdio.h>
 
----
+void email() {
+  puts("noelnavernoe@gmail.com");
+}
 
-Makasih udah mampir ke profil GitHub gw, kalau ada yang pengen ditanyain, diskusi soal coding, atau yang lain, bisa kontak aja ya. let’s connect! 🚀
-
-Noted: all the text is made by gpt lol, i'm too lazy to make it.
+int main () {
+    email();
+    return 0;
+}
+```
