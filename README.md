@@ -24,7 +24,7 @@ void email() {
   puts("noelnavernoe@gmail.com");
 }
 
-int main () {
+int main() {
     email();
     return 0;
 }
