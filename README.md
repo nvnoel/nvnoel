@@ -27,22 +27,7 @@ A middle-school student who's passionate about IT, coding, reverse engineering, 
   <img src="./images/mahiro.png" alt="Contact" width="100"/>
 </div>
 
-**Please contact me on Telegram for a quick response:** [@noelnvrnoe](https://t.me/noelnvrnoe)
-
-**You can also email me here:**
-
-```c
-#include <stdio.h>
-
-void email() {
-  puts("noelnoskill@gmail.com");
-}
-
-int main() {
-    email();
-    return 0;
-}
-```
+**Please contact me on Telegram for a quick response:** [@aeldy24](https://t.me/aeldy24)
 
 ---
 
