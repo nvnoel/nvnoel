@@ -35,7 +35,7 @@ A middle-school student who's passionate about IT, coding, reverse engineering, 
 #include <stdio.h>
 
 void email() {
-  puts("noelnavernoe@gmail.com");
+  puts("noelnoskill@gmail.com");
 }
 
 int main() {
